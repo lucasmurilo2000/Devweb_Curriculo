@@ -1,0 +1,56 @@
+.Fotopessoal{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 100px;
+    left: 600px;
+}
+
+body{
+    background: url("./img/background.jpg") no-repeat center center;
+    background-size: cover;
+    height: 100vh;
+}
+#container{
+    position: absolute;
+    width: 850px;
+    height: 750px;
+    background: #23232e;
+}
+
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: cursive;
+    background: #23232e;
+    height: 8vh;
+    font-size: 40px;
+    color: white;
+    
+}
+.div1{
+    position: relative;
+    margin: 10px;
+    font-size: 20px;
+    line-height: 2px;
+    font-family: cursive;
+    color: white;
+}
+.div2{
+    position: relative;
+    margin: 10px;
+    font-size: 20px;
+    line-height: 2px;
+    font-family: cursive;
+    color: white;
+}
+#dadospessoais{
+    position: relative;
+    font-size: 20px;
+    margin: 10px;
+    line-height: 2px;
+    font-family: cursive;
+    color: white;
+}
+
